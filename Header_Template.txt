@@ -1,0 +1,11 @@
+#if ($HEADER_COMMENTS)
+/*
+** ${FILE_NAME} for ${PROJECT_NAME} in /home/login_p/delivery/${PROJECT_NAME}/${FILE_NAME}
+**
+** Made by Prenom Nom
+** Login   <prenom.nom@epitech.eu>
+**
+** Started on  ${DAY_NAME_SHORT} ${MONTH_NAME_SHORT} ${DAY} ${HOUR}:${MINUTE}:${SECOND} ${YEAR} Prenom Nom
+** Last update ${DAY_NAME_SHORT} ${MONTH_NAME_SHORT} ${DAY} ${HOUR}:${MINUTE}:${SECOND} ${YEAR} Prenom Nom
+*/
+#end
