@@ -8,11 +8,12 @@ This CLion configuration is made to be as compliant as possible with the Epitech
 If you have any suggestion please let me know.
 
 # Installation
+
 **Code Style**<br />
-file -> settings -> code style -> manage... -> import
+*file -> settings -> code style -> manage... -> import*
 - Import "Epitech_C.xml"
 
 **Epitech Header**<br />
-file -> settings -> code style -> File and Code Templates -> Includes
+*file -> settings -> code style -> File and Code Templates -> Includes*
 - Add an include for c/h Extension and paste the content of Header_Template.txt in it.
 - Replace 'nom' and 'prenom' with yours.
