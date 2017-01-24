@@ -6,3 +6,11 @@ This CLion configuration is made to be as compliant as possible with the Epitech
 - The header is semi-hard coded since there isn't a "PATH" variable and the last modified field isn't updated. (but it shouldn't affect the norm)
 
 If you have any suggestion please let me know.
+
+# Installation
+**file -> settings -> code style -> manage... -> import**
+  - Import "Epitech_C.xml"
+  
+**file -> settings -> code style -> File and Code Templates -> Includes**
+  - add an include for c/h Extension and paste the content of Header_Template.txt in it.
+  - Replace 'nom' and 'prenom' with yours.
