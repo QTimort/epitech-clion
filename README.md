@@ -1,5 +1,5 @@
 # epitech-clion
-Epitech compliant configuration for CLion IDE.
+Epitech norm compliant configuration for CLion IDE.
 
 This CLion configuration is made to be as compliant as possible with the Epitech norm but there is still some known problem:
 - When reformating the file, variable and function aren't aligned together, you have to do it manually.
