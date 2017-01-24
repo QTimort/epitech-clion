@@ -9,8 +9,8 @@ If you have any suggestion please let me know.
 
 # Installation
 **file -> settings -> code style -> manage... -> import**
-  - Import "Epitech_C.xml"
+- Import "Epitech_C.xml"
   
 **file -> settings -> code style -> File and Code Templates -> Includes**
-  - add an include for c/h Extension and paste the content of Header_Template.txt in it.
-  - Replace 'nom' and 'prenom' with yours.
+- Add an include for c/h Extension and paste the content of Header_Template.txt in it.
+- Replace 'nom' and 'prenom' with yours.
