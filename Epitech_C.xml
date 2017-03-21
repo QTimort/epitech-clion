@@ -12,7 +12,7 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="80" />
+  <option name="RIGHT_MARGIN" value="79" />
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="2" />
     <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
