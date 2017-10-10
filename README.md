@@ -13,6 +13,7 @@ If you have any suggestion please let me know.<br />
 *file -> settings -> code style -> File and Code Templates -> Includes*
 - Add an include named "C Epitech Header" with extension 'h' and paste the content of Header_Template.txt in the large field.<br />
 - Replace the promo variable set by default to '2022' to your year of promo.<br />
+
 *file -> settings -> code style -> File and Code Templates -> Files*<br />
 -> C Source File replace "C File Header.h" by "C Epitech Header.h"<br />
 -> C Header File replace "C File Header.h" by "C Epitech Header.h"<br />
