@@ -1,7 +1,7 @@
 # epitech-clion
-Epitech norm compliant configuration for CLion IDE.
-This CLion configuration is made to be as compliant as possible with the Epitech norm.
-If you have any suggestion please let me know.
+Epitech norm compliant configuration for CLion IDE.<br />
+This CLion configuration is made to be as compliant as possible with the Epitech norm.<br />
+If you have any suggestion please let me know.<br />
 
 # Installation
 
