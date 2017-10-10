@@ -12,7 +12,7 @@ If you have any suggestion please let me know.<br />
 **Epitech Header**<br />
 *file -> settings -> code style -> File and Code Templates -> Includes*
 - Add an include named "C Epitech Header" with extension 'h' and paste the content of Header_Template.txt in the large field.<br />
-- Replace the promo variable set by default to '2022' to your year of promo.<br />
+- Replace the promo variable set by default to "2022" to your year of promo.<br />
 
 *file -> settings -> code style -> File and Code Templates -> Files*<br />
 -> C Source File replace "C File Header.h" by "C Epitech Header.h"<br />
@@ -23,7 +23,7 @@ If you have any suggestion please let me know.<br />
 
 # Warning
 - The number of line in a function, line breaks != number of lines, more exactly 19 line breaks = 20 lines.
-- When including header, check that CLion didnt put the include before the Epitech Header.
+- When including the first include in a file, check that CLion didnt put the include before the Epitech Header.
 
 # Old Installation
 
