@@ -1,0 +1,9 @@
+#if ($HEADER_COMMENTS)
+#set($PROMO = "2022")
+/*
+** EPITECH PROJECT, ${PROMO}
+** ${PROJECT_NAME}
+** File description:
+** Created by ${USER},
+*/
+#end
