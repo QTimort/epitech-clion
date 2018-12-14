@@ -1,12 +1,9 @@
 <code_scheme name="Epitech C 2017" version="173">
   <option name="RIGHT_MARGIN" value="80" />
+  <option name="SOFT_MARGINS" value="80" />
   <Objective-C>
-    <option name="INDENT_NAMESPACE_MEMBERS" value="8" />
-    <option name="INDENT_C_STRUCT_MEMBERS" value="8" />
-    <option name="INDENT_CLASS_MEMBERS" value="8" />
-    <option name="INDENT_VISIBILITY_KEYWORDS" value="8" />
-    <option name="INDENT_INSIDE_CODE_BLOCK" value="8" />
-    <option name="INDENT_PREPROCESSOR_DIRECTIVE" value="8" />
+    <option name="INDENT_VISIBILITY_KEYWORDS" value="4" />
+    <option name="INDENT_PREPROCESSOR_DIRECTIVE" value="4" />
     <option name="INDENT_DIRECTIVE_AS_CODE" value="true" />
     <option name="KEEP_DIRECTIVE_AT_FIRST_COLUMN" value="false" />
     <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
@@ -68,10 +65,8 @@
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="false" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="8" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="LABEL_INDENT_SIZE" value="8" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="LABEL_INDENT_SIZE" value="4" />
       <option name="LABEL_INDENT_ABSOLUTE" value="true" />
     </indentOptions>
   </codeStyleSettings>

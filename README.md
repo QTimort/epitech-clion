@@ -7,7 +7,7 @@ If you have any suggestion please let me know.<br />
 
 **Code Style**<br />
 *file -> settings -> code style -> manage... -> import*
-- Import "Epitech C 2017.xml"
+- Import "Epitech C 2018.xml"
 
 **Epitech Header**<br />
 *file -> settings -> code style -> File and Code Templates -> Includes*
